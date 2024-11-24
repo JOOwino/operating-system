@@ -129,12 +129,15 @@ UPROGS=\
 	$U/_grep\
 	$U/_init\
 	$U/_kill\
+	$U/_sleep\
+	$U/_sample\
 	$U/_ln\
 	$U/_ls\
 	$U/_mkdir\
 	$U/_rm\
 	$U/_sh\
 	$U/_stressfs\
+	$U/_trace\
 	$U/_usertests\
 	$U/_grind\
 	$U/_wc\
